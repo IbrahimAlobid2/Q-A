@@ -1,4 +1,5 @@
 # Q&A-and-RAG-with-SQL-and-TabularData
+Repo name SQL-RAGGPT – A fusion of SQL, RAG, and GPT-based interactions.
 
 `Q&A-and-RAG-with-SQL-and-TabularData` is a chatbot project that utilizes <u>GPT 3.5</u>, <u>Langchain</u>, <u>SQLite</u>, and <u>ChromaDB</u> and allows users to interact (perform <u>Q&A</u> and <u>RAG</u>) with SQL databases, CSV, and XLSX files using natural language.
 
